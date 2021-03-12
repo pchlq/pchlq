@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 * Python
 * R
 * Java
-* C++
 * SQL
 
 ## My accounts
